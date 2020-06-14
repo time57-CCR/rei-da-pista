@@ -42,5 +42,5 @@ PARA O CAMINHONEIRO
 - Daniel Leite (Designer) - Manaus/AM - [LinkedIn](https://www.linkedin.com/in/daniel-leite-aa17b843/) . [Behance](https://www.behance.net/danielrodrigo)
 - Diago Sávio Sucar (Marketing) - Rio de Janeiro/RJ - [LinkedIn](https://www.linkedin.com/in/diagosucar/)
 - Everton da Costa Ferreira (Dev) - Curitiba/PR - [LinkedIn](https://www.linkedin.com/in/evertonferreira96/) . [GitHub](https://github.com/evertonferreira96)
-- Léo Moraes (Business) - Florianópolis/SC - [Linkedin](https://www.linkedin.com/in/leohmoraes/)
+- Léo Moraes (Business) - Florianópolis/SC - [Linkedin](https://www.linkedin.com/in/leohmoraes/) . [GitHub](https://github.com/leohmoraes)
 - Vinícius Passos (Dev) - Linhares/ES - [LinkedIn](https://www.linkedin.com/in/vtpa/) . [GitHub](https://github.com/vtpa)
