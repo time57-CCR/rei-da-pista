@@ -31,10 +31,9 @@ PARA O CAMINHONEIRO
  
  ### 🔗&nbsp;&nbsp;&nbsp; Links
 - Canal Youtube: [Youtube](https://www.youtube.com/channel/UCpzXBzS7U2Ueo3kW17engkw)
-- Video Pitch: [Youtube]()
-- Video Navegação no app: [Video]()
+- Video Pitch: [Youtube](https://www.youtube.com/watch?v=9q7EkvrvylQ)
 - Protótipo: [Link](https://reidapista.vercel.app)
-- Design: [Figma](https://www.figma.com/proto/dkR58hm1XOPw6cpKqVpBJa/Chapa-virtual?node-id=73%3A1&scaling=scale-down)
+- Design: [Figma](https://www.figma.com/proto/dkR58hm1XOPw6cpKqVpBJa/Chapa-virtual?node-id=99%3A3)
 - Artigo sobre o chatbot: Chapa Virtual: [LinkedIn](https://www.linkedin.com/pulse/chapa-virtual-melhorando-o-acesso-do-caminhoneiro-%25C3%25A0-vinicius-passos	)
  
  ### ⚙&nbsp;&nbsp;&nbsp; Tecnologias
