@@ -1,0 +1,26 @@
+*{
+  color: #000;
+}
+.title-quiz{
+  padding: 16px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.title-question{
+  padding: 16px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: lightgray;
+  margin: 0px 0px 3px;
+  text-align: left;
+}
+
+.btn-cancel{
+  background: white !important;
+  padding: 0px !important;
+  margin: 0px !important;
+  border: none !important;
+  width: 100%;
+  text-align: left;
+}
