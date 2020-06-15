@@ -18,14 +18,14 @@ function Sign() {
       </Row>
       <Row>
         <Col xs={12} md={12} lg={12}>
-          <div className='content'>
-            <div className='title'>Vincule seu celular agora</div>
+          <div className='content-sign'>
+            <div className='title-sign'>Vincule seu celular agora</div>
           </div>
         </Col>
       </Row>
       <Row>
         <Col xs={12} md={12} lg={12}>
-          <div className='content'>
+          <div className='content-sign'>
             <div className='description'>
             Para utilizar você precisa ativar este aparelho, informe o número do seu celular e solicite um código de ativação que será enviado por SMS.
             </div>

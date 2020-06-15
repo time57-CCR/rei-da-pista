@@ -14,10 +14,14 @@
   color: #FFD800;
 }
 
-.name-perfill{
+.name-perfil-home{
   color: #FFD800;
   font-weight: 700;
   font-size: 25px !important;
+}
+
+.quantidades-pontos{
+  color: white;
 }
 
 .info{

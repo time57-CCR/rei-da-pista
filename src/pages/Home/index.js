@@ -23,7 +23,8 @@ function Home() {
             <div className='image-perfil'>
               <Image src={ProfileImage} roundedCircle/>
             </div>
-            <p className='name-perfill'>Everton Ferreira</p>
+            <p className='name-perfil-home'>Everton Ferreira</p>
+            <p className='quantidades-pontos'>2.374 Pontos</p>
           </div>
         </Col>
       </Row>

@@ -18,14 +18,14 @@ function Sign() {
       </Row>
       <Row>
         <Col xs={12} md={12} lg={12}>
-          <div className='content'>
-            <div className='title'>Código de validação</div>
+          <div className='content-confirm'>
+            <div className='title-confirm'>Código de validação</div>
           </div>
         </Col>
       </Row>
       <Row>
         <Col xs={12} md={12} lg={12}>
-          <div className='content'>
+          <div className='content-confirm'>
             <div className='description'>
             Insira o código recebido por SMS, são 6 dígitos.
             </div>
